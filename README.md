@@ -1,5 +1,5 @@
 # 💫 About Me:
-Kshitij Sahdev<br>BTech CSE student specializing in DevOps<br>Focus areas: Android development (Flutter), AI projects, developer tools<br>Proficient in:<br><br>    Languages: Dart, Python, C++, Go, JavaScript<br>    Frameworks: React, Docker<br><br>Tech head of university’s gaming dev club<br>Currently building event websites and expanding knowledge in modern web technologies
+Kshitij Sahdev<br>BTech CSE student specializing in DevOps<br>Focus areas: Development, Android Dev (Flutter), AI projects, developer tools<br>Proficient in:<br><br>    Languages: Dart, Python, C++, Go, JavaScript<br>    Frameworks: React, Docker<br><br>Tech head of university’s gaming dev club<br>Currently building event websites and expanding knowledge in modern web technologies
 
 
 ## 🌐 Socials:
