@@ -1,5 +1,5 @@
 # 💫 About Me:
-Kshitij Sahdev — BTech CSE (DevOps)  <br>Focused on Development, Android (Flutter), AI, and DevOps tools.  <br>Tech Head @ Solace Studio | Tech Advisor @ WIE IEEE  <br>Building event websites & exploring modern web tech.<br>
+Kshitij Sahdev — BTech CSE (DevOps)  <br>Focused on Development, MERN, Android, AI implementation, and DevOps tools.<br>SWE @ KnowlegdeChakra  <br>Tech Head @ Solace Studio | Tech Advisor @ WIE IEEE  <br>Building event websites & exploring modern web tech.<br>
 
 
 ## 🌐 Socials:
